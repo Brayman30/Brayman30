@@ -6,12 +6,12 @@
 
 ### 👨‍💻 Find one of my projects here on GitHub (hoping to have more soon)
  - [Thought about making a chocolatey package once](https://github.com/Brayman30/chocolatey-packages)
- - [Currently working on a Package install script for linux](
+ - [Currently Maintaining/Developing Biordle](https://github.com/Brayman30/biordle)
 
 ### 🧰 Tools / stuff I work with
 - 🌐 [HTML](https://en.wikipedia.org/wiki/HTML)
 - 🆚 [VS Code](https://code.visualstudio.com)
-- <img src="https://assets-global.website-files.com/5d3e265ac89f6a3e64292efc/5d55951e4de4fb4722554d96_default_favicon.png" alt="Webflow logo" width="15"/> [Webflow](https://www.webflow.com)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="15"/> [React](https://www.reactjs.org)
 
 ### ✨ Other knowledge
 - 🐧 [Linux](https://en.wikipedia.org/wiki/Linux) / [bash](https://www.gnu.org/software/bash/)
