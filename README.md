@@ -22,7 +22,7 @@
 - 🕹 Play videogames - mainly (Minecraft)[https://www.minecraft.net]
 - 🎧 Listen to music and sometimes make music
 - 👨‍💻 Code
-- 🐧 Play around with Linux (My personal Fav is [Manjaro](https://manjaro.org/))
+- 🐧 Play around with Linux (My personal Fav is [Fedora](https://getfedora.org/))
 
 ### 🔮 Future goals
 - `// TODO`
