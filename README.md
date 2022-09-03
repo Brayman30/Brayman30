@@ -29,6 +29,6 @@
 
 ### 🌐 Some stuff is on my website **https://braydenprice.dev**
 
-### ReadMe Ideas havely inspired by [@tomjschwanke](https://github.com/tomjschwanke)
+### ReadMe Ideas heavily inspired by [@tomjschwanke](https://github.com/tomjschwanke)
 
 ### 🙇‍♂️ Thanks for visiting my profile
