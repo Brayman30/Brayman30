@@ -19,7 +19,7 @@
 - 🖥 [PC consumer hardware](https://www.youtube.com/LinusTechTips)
 
 ### 🎡 What do I do in my freetime?
-- 🕹 Play videogames - mainly (Minecraft)[https://www.minecraft.net]
+- 🕹 Play videogames
 - 🎧 Listen to music and sometimes make music
 - 👨‍💻 Code
 - 🐧 Play around with Linux (My personal Fav is [Fedora](https://getfedora.org/))
